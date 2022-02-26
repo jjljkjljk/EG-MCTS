@@ -1,0 +1,26 @@
+name: eg_mcts_env
+channels:
+  - rdkit
+  - conda-forge
+  - pytorch
+  - anaconda
+  - defaults
+dependencies:
+  - cpuonly=1.0=0
+  - graphviz=2.38.0=h6538335_1011
+  - networkx=2.5=py_0
+  - numpy=1.19.4=py37hd20adf4_1
+  - pandas=1.1.4=py37h08fd248_0
+  - pip=20.2.4=py_0
+  - python=3.7.8=h7840368_3_cpython
+  - python-dateutil=2.8.1=py_0
+  - python-graphviz=0.15=pyhd3deb0d_0
+  - python_abi=3.7=1_cp37m
+  - pytorch=1.6.0=cpu_py37h538a6d7_0
+  - rdkit=2020.09.1.0=py37h3d1ada6_1
+  - setuptools=49.6.0=py37hf50a25e_2
+  - torchvision=0.7.0=py37_cpu
+  - tqdm=4.54.0=pyhd8ed1ab_0
+
+
+
