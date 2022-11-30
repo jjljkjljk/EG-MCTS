@@ -1,1 +1,0 @@
-from eg_mcts.algorithm.egmcts import egmcts
