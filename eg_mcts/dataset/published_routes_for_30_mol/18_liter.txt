@@ -1,0 +1,11 @@
+Cc1n(C)nc2c1cc(c(c2F)n3c4c(F)cc(I)cc4)n(S(=O)(C5CC5)=O)c3=O>>O=S(Cl)(C6CC6)=O.Cc7n(C)nc8c7cc([nH]c(=O)n9c%10c(F)cc(I)cc%10)c9c8F
+Cc1n(C)nc2c1cc([nH]c(=O)n3c4c(F)cc(I)cc4)c3c2F>>Cc5n(C)nc6c5cc(C(O)=O)c(Nc7c(F)cc(I)cc7)c6F
+Cc1n(C)nc2c1cc(C(O)=O)c(Nc3c(F)cc(I)cc3)c2F>>COC(c(c4)c(Nc5c(F)cc(I)cc5)c(F)c6c4c(C)n(C)n6)=O
+COC(c(c1)c(Nc2c(F)cc(I)cc2)c(F)c3c1c(C)n(C)n3)=O>>COC(c(c4)c(Nc5c(F)cccc5)c(F)c6c4c(C)n(C)n6)=O
+COC(c(c1)c(Nc2c(F)cccc2)c(F)c3c1c(C)n(C)n3)=O>>COC(c(c4)c(Nc5c(F)cccc5)c(F)c6c4c(C)[nH]n6)=O
+COC(c(c1)c(Nc2c(F)cccc2)c(F)c3c1c(C)[nH]n3)=O>>COC(c4c(Nc5c(F)cccc5)c(F)c(F)c(C(C)=O)c4)=O
+COC(c1c(Nc2c(F)cccc2)c(F)c(F)c(C(C)=O)c1)=O>>COC(c3c(Nc4c(F)cccc4)c(F)c(F)c(C#C[Si](C)(C)C)c3)=O
+COC(c1c(Nc2c(F)cccc2)c(F)c(F)c(C#C[Si](C)(C)C)c1)=O>>C#C[Si](C)(C)C.COC(c3c(Nc4c(F)cccc4)c(F)c(F)c(Br)c3)=O
+COC(c1c(Nc2c(F)cccc2)c(F)c(F)c(Br)c1)=O>>O=C(c3c(Nc4c(F)cccc4)c(F)c(F)c(Br)c3)O
+O=C(c1c(Nc2c(F)cccc2)c(F)c(F)c(Br)c1)O>>O=C(c3c(F)c(F)c(F)c(Br)c3)O.Nc4c(F)cccc4
+O=C(c1c(F)c(F)c(F)c(Br)c1)O>>Brc2c(F)c(F)c(F)cc2.O=C=O

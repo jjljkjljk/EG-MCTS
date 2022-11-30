@@ -1,0 +1,15 @@
+CN1CCC(c2ccc(F)cc2)(CC1)COC(c(cc(Cl)c3)c4c3cn[nH]4)C(N(C)C)=O>>O=C(N(C)C)C(c(cc(Cl)c5)c6c5cn[nH]6)OCC(c7ccc(F)cc7)(CC8)CCN8C(OC(C)(C)C)=O
+O=C(N(C)C)C(c(cc(Cl)c1)c2c1cn[nH]2)OCC(c3ccc(F)cc3)(CC4)CCN4C(OC(C)(C)C)=O>>CC(C)(OC(OC(OC(C)(C)C)=O)=O)C.O=C(C(OCC5(CCN(C(OC(C)(C)C)=O)CC5)c6ccc(F)cc6)c7c8[nH]n(COC[Si](C)(C)C)cc8cc(Cl)c7)N(C)C
+O=C(C(OCC1(CCN(C(OC(C)(C)C)=O)CC1)c2ccc(F)cc2)c3c4[nH]n(COC[Si](C)(C)C)cc4cc(Cl)c3)N(C)C>>CNC.O=C(C(OCC5(CCN(C(OC(C)(C)C)=O)CC5)c6ccc(F)cc6)c7c8[nH]n(COC[Si](C)(C)C)cc8cc(Cl)c7)O
+O=C(C(OCC1(CCN(C(OC(C)(C)C)=O)CC1)c2ccc(F)cc2)c3c4[nH]n(COC[Si](C)(C)C)cc4cc(Cl)c3)O>>O=C(C(OCC5(CCN(C(OC(C)(C)C)=O)CC5)c6ccc(F)cc6)c7c8[nH]n(COC[Si](C)(C)C)cc8cc(Cl)c7)C
+O=C(C(OCC1(CCN(C(OC(C)(C)C)=O)CC1)c2ccc(F)cc2)c3c4[nH]n(COC[Si](C)(C)C)cc4cc(Cl)c3)C>>CC(C)(OC(N5CCC(C6=CC=C(C=C6)F)(CC5)CO)=O)C.C[Si](C)(CCOCN7C=C8C=C(C=C(C8=N7)C(C(OC)=O)=N)Cl)C
+C[Si](C)(CCOCN1C=C2C=C(C=C(C2=N1)C(C(OC)=O)=N)Cl)C>>C[Si](C)(CCOCN3C=C4C=C(C=C(C4=N3)C(OC)=O)Cl)C
+C[Si](C)(CCOCN1C=C2C=C(C=C(C2=N1)C(OC)=O)Cl)C>>CN(C(NN(=O)=O)=N)N=O.C[Si](C)(CCOCN3C=C4C=C(C=C(C4=N3)C(O)=O)Cl)C
+C[Si](C)(CCOCN1C=C2C=C(C=C(C2=N1)C(O)=O)Cl)C>>C[Si](C)(CCOCN3C=C4C=C(C=C(C4=N3)CC#N)Cl)C.[Na]C#N
+C[Si](C)(CCOCN1C=C2C=C(C=C(C2=N1)CC#N)Cl)C>>C[Si](CCOCN3C=C4C=C(Cl)C=C(COS(C)(=O)=O)C4=N3)(C)C
+C[Si](CCOCN1C=C2C=C(Cl)C=C(COS(C)(=O)=O)C2=N1)(C)C>>CS(=O)(Cl)=O.C[Si](CCOCN3C=C4C=C(Cl)C=C(CO)C4=N3)(C)C
+C[Si](CCOCN1C=C2C=C(Cl)C=C(CO)C2=N1)(C)C>>C[Si](CCOCN3C=C4C=C(Cl)C=C(C=O)C4=N3)(C)C
+C[Si](CCOCN1C=C2C=C(Cl)C=C(C=O)C2=N1)(C)C>>C[Si](C)(CCOCCl)C.O=CC3=C4NN=CC4=CC(Cl)=C3
+O=CC1=C2NN=CC2=CC(Cl)=C1>>BrC3=C4NN=CC4=CC(Cl)=C3.CN(C)C=O
+BrC1=C2NN=CC2=CC(Cl)=C1>>BrC3=CC(Cl)=CC(C)=C3N
+BrC1=CC(Cl)=CC(C)=C1N>>CC2=C(N)C=CC(Cl)=C2

@@ -1,0 +1,11 @@
+CCCCc1c(COc2cc(Cl)c(Cc(no3)[nH]c3=O)cc2)sc(c4ccc(C(F)(F)F)cc4)n1>>CCCCc5c(COc6cc(Cl)c(CC(NOC(OC7=CC=CC7)=O)=N)cc6)sc(c8ccc(C(F)(F)F)cc8)n5
+CCCCc1c(COc2cc(Cl)c(CC(NOC(OC3=CC=CC3)=O)=N)cc2)sc(c4ccc(C(F)(F)F)cc4)n1>>CCCCc5c(COc6cc(Cl)c(CC(NO)=N)cc6)sc(c7ccc(C(F)(F)F)cc7)n5.O=C(Oc8ccccc8)Cl
+CCCCc1c(COc2cc(Cl)c(CC(NO)=N)cc2)sc(c3ccc(C(F)(F)F)cc3)n1>>CCCCc4c(COc5cc(Cl)c(CC#N)cc5)sc(c6ccc(C(F)(F)F)cc6)n4
+CCCCc1c(COc2cc(Cl)c(CC#N)cc2)sc(c3ccc(C(F)(F)F)cc3)n1>>CCCCc4c(COc5cc(Cl)c(CCl)cc5)sc(c6ccc(C(F)(F)F)cc6)n4
+CCCCc1c(COc2cc(Cl)c(CCl)cc2)sc(c3ccc(C(F)(F)F)cc3)n1>>CCCCc4c(COc5cc(Cl)c(CO)cc5)sc(c6ccc(C(F)(F)F)cc6)n4
+CCCCc1c(COc2cc(Cl)c(CO)cc2)sc(c3ccc(C(F)(F)F)cc3)n1>>CCCCc4c(COc5cc(Cl)c(C=O)cc5)sc(c6ccc(C(F)(F)F)cc6)n4
+CCCCc1c(COc2cc(Cl)c(C=O)cc2)sc(c3ccc(C(F)(F)F)cc3)n1>>O=Cc4c(Cl)cc(O)cc4.CCCCc5c(CCl)sc(c6ccc(C(F)(F)F)cc6)n5
+CCCCc1c(CCl)sc(c2ccc(C(F)(F)F)cc2)n1>>CCCCc3c(CO)sc(c4ccc(C(F)(F)F)cc4)n3
+CCCCc1c(CO)sc(c2ccc(C(F)(F)F)cc2)n1>>CCCCc3c(C(OC)=O)sc(c4ccc(C(F)(F)F)cc4)n3
+CCCCc1c(C(OC)=O)sc(c2ccc(C(F)(F)F)cc2)n1>>CCCCC(C(Cl)C(OC)=O)=O.NC(c3ccc(C(F)(F)F)cc3)=S
+CCCCC(C(Cl)C(OC)=O)=O>>CCCCC(CC(OC)=O)=O

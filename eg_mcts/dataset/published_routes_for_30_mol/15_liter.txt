@@ -1,0 +1,13 @@
+CNC(c(c1O)n(C)c(CNS(=O)(c2cc(C)ccc2)=O)cc1=O)=O>>CNC(c(c3OCc4ccccc4)n(C)c(CNS(=O)(c5c(C)cccc5)=O)cc3=O)=O
+CNC(c(c1OCc2ccccc2)n(C)c(CNS(=O)(c3c(C)cccc3)=O)cc1=O)=O>>Cc4c(S(=O)(NCc(c5)n(C)c(C(O)=O)c(OCc6ccccc6)c5=O)=O)cccc4
+Cc1c(S(=O)(NCc(c2)n(C)c(C(O)=O)c(OCc3ccccc3)c2=O)=O)cccc1>>Cc4c(S(=O)(NCc(c5)oc(C(O)=O)c(OCc6ccccc6)c5=O)=O)cccc4
+Cc1c(S(=O)(NCc(c2)oc(C(O)=O)c(OCc3ccccc3)c2=O)=O)cccc1>>Cc4c(S(=O)(NCc(c5)oc(C=O)c(OCc6ccccc6)c5=O)=O)cccc4
+Cc1c(S(=O)(NCc(c2)oc(C=O)c(OCc3ccccc3)c2=O)=O)cccc1>>Cc4c(S(=O)(NCc(c5)oc(CO)c(OCc6ccccc6)c5=O)=O)cccc4
+Cc1c(S(=O)(NCc(c2)oc(CO)c(OCc3ccccc3)c2=O)=O)cccc1>>O=S(c4cccc(C)c4)(NCc(c5)oc(CO)c(O)c5=O)=O.BrCC6=CC=CC=C6
+O=S(c1cccc(C)c1)(NCc(c2)oc(CO)c(O)c2=O)=O>>O=S(c3cccc(C)c3)(NCc(c4)occ(O)c4=O)=O.C=O
+O=S(c1cccc(C)c1)(NCc(c2)occ(O)c2=O)=O>>CC3=CC=CC(S(NCC4=CC(C(OCC5=CC=CC=C5)=CO4)=O)(=O)=O)=C3
+CC1=CC=CC(S(NCC2=CC(C(OCC3=CC=CC=C3)=CO2)=O)(=O)=O)=C1>>CC4=CC=CC(S(=O)(Cl)=O)=C4.O=C(C(OCC5=CC=CC=C5)=CO6)C=C6CN
+O=C(C(OCC1=CC=CC=C1)=CO2)C=C2CN>>O=C(C(OCC3=CC=CC=C3)=CO4)C=C4CN=[N+]=[N-]
+O=C(C(OCC1=CC=CC=C1)=CO2)C=C2CN=[N+]=[N-]>>BrCC3=CC=CC=C3.O=C(C(O)=CO4)C=C4CN=[N+]=[N-]
+O=C(C(O)=CO1)C=C1CN=[N+]=[N-]>>ClCC2=CC(C(O)=CO2)=O
+ClCC1=CC(C(O)=CO1)=O>>OCC2=CC(C(O)=CO2)=O

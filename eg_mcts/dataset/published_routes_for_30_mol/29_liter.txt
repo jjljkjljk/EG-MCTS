@@ -1,0 +1,10 @@
+N#Cc(nc(C(NCc1ccncc1)=O)c2O)c3c2ccn(Cc4ccccc4)c3=O>>COC(c(nc5C#N)c(O)c6c5c(=O)n(Cc7ccccc7)cc6)=O.NCc8ccncc8
+COC(c(nc1C#N)c(O)c2c1c(=O)n(Cc3ccccc3)cc2)=O>>COC(c(nc4I)c(O)c5c4c(=O)n(Cc6ccccc6)cc5)=O.N#C[Cu]
+COC(c(nc1I)c(O)c2c1c(=O)n(Cc3ccccc3)cc2)=O>>COC(c(nc4)c(O)c5c4c(=O)n(Cc6ccccc6)cc5)=O
+COC(c(nc1)c(O)c2c1c(=O)n(Cc3ccccc3)cc2)=O>>CCOC(c(ccn4Cc5ccccc5)c(CN(S(=O)(c6ccc(C)cc6)=O)CC(OC)=O)c4=O)=O
+CCOC(c(ccn1Cc2ccccc2)c(CN(S(=O)(c3ccc(C)cc3)=O)CC(OC)=O)c1=O)=O>>CCOC(c(ccn4Cc5ccccc5)c(CBr)c4=O)=O.COC(CNS(=O)(c6ccc(C)cc6)=O)=O
+CCOC(c(ccn1Cc2ccccc2)c(CBr)c1=O)=O>>CCOC(c(ccn3Cc4ccccc4)c(C(O)=O)c3=O)=O
+CCOC(c(ccn1Cc2ccccc2)c(C(O)=O)c1=O)=O>>CCOC(c(ccn3Cc4ccccc4)c(C(OC)=O)c3=O)=O
+CCOC(c(ccn1Cc2ccccc2)c(C(OC)=O)c1=O)=O>>CCOC(C(/C=C/N(C)C)=C(C(OC)=O)/C(OC)=O)=O.NCc3ccccc3
+CCOC(C(/C=C/N(C)C)=C(C(OC)=O)/C(OC)=O)=O>>COC(N(C)C)OC.CCOC(/C(C)=C(C(OC)=O)/C(OC)=O)=O
+CCOC(/C(C)=C(C(OC)=O)/C(OC)=O)=O>>COC(CC(OC)=O)=O.CCOC(C(C)=O)=O

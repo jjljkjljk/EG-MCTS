@@ -1,0 +1,9 @@
+CCOCc(n1)n(NCCCNC(Nc2ccccc2)=O)c3c1c(N)nc4c3cccc4>>CCOCc(n5)n(NCCCN)c6c5c(N)nc7c6cccc7.O=C=Nc8ccccc8
+CCOCc(n1)n(NCCCN)c2c1c(N)nc3c2cccc3>>CCOCc(n4)n(NCCCNC(OC(C)(C)C)=O)c5c4c(N)nc6c5cccc6
+CCOCc(n1)n(NCCCNC(OC(C)(C)C)=O)c2c1c(N)nc3c2cccc3>>CCOCc(n4)n(NCCCNC(OC(C)(C)C)=O)c5c4cnc6c5cccc6
+CCOCc(n1)n(NCCCNC(OC(C)(C)C)=O)c2c1cnc3c2cccc3>>CCOCc(n4)n(/N=C/CCCC(OC(C)(C)C)=O)c5c4cnc6c5cccc6
+CCOCc(n1)n(/N=C/CCNC(OC(C)(C)C)=O)c2c1cnc3c2cccc3>>CCOCc(n4)n(N)c5c4cnc6c5cccc6.CCOC(OCC)CCNC(OC(C)(C)C)=O
+CCOCc(n1)n(N)c2c1cnc3c2cccc3>>CCOCc(n4)n(NC(OC(C)(C)C)=O)c5c4cnc6c5cccc6
+CCOCc(n1)n(NC(OC(C)(C)C)=O)c2c1cnc3c2cccc3>>CCOCC(Cl)=O.CC(C)(OC(NNc(c(N)cn4)c5c4cccc5)=O)C
+CC(C)(OC(NNc(c(N)cn1)c2c1cccc2)=O)C>>CC(C)(OC(NNc(c([N+]([O-])=O)cn3)c4c3cccc4)=O)C
+CC(C)(OC(NNc(c([N+]([O-])=O)cn1)c2c1cccc2)=O)C>>CC(C)(OC(NN)=O)C.Clc3c([N+]([O-])=O)cnc4c3cccc4

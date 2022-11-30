@@ -1,0 +1,13 @@
+CC(NC(C(F)(F)F)c(ccc1Cl)c2c1nc3n2CCCN3c4c(Cl)cc(Cl)cc4)=O>>CC(Cl)=O.NC(C(F)(F)F)c(ccc5Cl)c6c5nc7n6CCCN7c8c(Cl)cc(Cl)cc8
+NC(C(F)(F)F)c(ccc1Cl)c2c1nc3n2CCCN3c4c(Cl)cc(Cl)cc4>>[N-]=[N+]=NC(C(F)(F)F)c(ccc5Cl)c6c5nc7n6CCCN7c8c(Cl)cc(Cl)cc8
+[N-]=[N+]=NC(C(F)(F)F)c(ccc1Cl)c2c1nc3n2CCCN3c4c(Cl)cc(Cl)cc4>>ClC(C(F)(F)F)c(ccc5Cl)c6c5nc7n6CCCN7c8c(Cl)cc(Cl)cc8
+ClC(C(F)(F)F)c(ccc1Cl)c2c1nc3n2CCCN3c4c(Cl)cc(Cl)cc4>>OC(C(F)(F)F)c(ccc5Cl)c6c5nc7n6CCCN7c8c(Cl)cc(Cl)cc8
+OC(C(F)(F)F)c(ccc1Cl)c2c1nc3n2CCCN3c4c(Cl)cc(Cl)cc4>>C[Si](C)(C(F)(F)F)C.O=Cc(ccc5Cl)c6c5nc7n6CCCN7c8c(Cl)cc(Cl)cc8
+O=Cc(ccc1Cl)c2c1nc3n2CCCN3c4c(Cl)cc(Cl)cc4>>OCc(ccc5Cl)c6c5nc7n6CCCN7c8c(Cl)cc(Cl)cc8
+OCc(ccc1Cl)c2c1nc3n2CCCN3c4c(Cl)cc(Cl)cc4>>COC(c(ccc5Cl)c6c5nc7n6CCCN7c8c(Cl)cc(Cl)cc8)=O
+COC(c(ccc1Cl)c2c1nc3n2CCCN3c4c(Cl)cc(Cl)cc4)=O>>COC(c(ccc5Cl)c6c5nc(Nc7c(Cl)cc(Cl)cc7)n6CCCO)=O
+COC(c(ccc1Cl)c2c1nc(Nc3c(Cl)cc(Cl)cc3)n2CCCO)=O>>COC(c4c(NCCCO)c(N)c(Cl)cc4)=O.S=C=Nc5c(Cl)cc(Cl)cc5
+COC(c1c(NCCCO)c(N)c(Cl)cc1)=O>>COC(c2c(NCCCO)c(N)ccc2)=O
+COC(c1c(NCCCO)c(N)ccc1)=O>>COC(C2=C(C([N+]([O-])=O)=CC=C2)NCCCO)=O
+COC(C1=C(C([N+]([O-])=O)=CC=C1)NCCCO)=O>>NCCCO.ClC2=C(C=CC=C2[N+]([O-])=O)C(OC)=O
+ClC1=C(C=CC=C1[N+]([O-])=O)C(OC)=O>>ClC2=C(C=CC=C2[N+]([O-])=O)C(O)=O

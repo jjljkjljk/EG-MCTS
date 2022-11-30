@@ -1,0 +1,13 @@
+CCC(C(C(C)(C)C)O)Oc1c(C)cc(C(CC)(c(cc2)cc3c2cc(C(NCC(O)=O)=O)cc3)CC)cc1>>CCC(C(C(C)(C)C)O)Oc4c(C)cc(C(CC)(c(cc5)cc6c5cc(C(NCC(OC)=O)=O)cc6)CC)cc4
+CCC(C(C(C)(C)C)O)Oc1c(C)cc(C(CC)(c(cc2)cc3c2cc(C(NCC(OC)=O)=O)cc3)CC)cc1>>COC(CN)=O.CCC(C(C(C)(C)C)O)Oc4c(C)cc(C(CC)(c(cc5)cc6c5cc(C(O)=O)cc6)CC)cc4
+CCC(C(C(C)(C)C)O)Oc1c(C)cc(C(CC)(c(cc2)cc3c2cc(C(O)=O)cc3)CC)cc1>>CCC(C(C(C)(C)C)=O)Oc4c(C)cc(C(CC)(c(cc5)cc6c5cc(C(O)=O)cc6)CC)cc4
+CCC(C(C(C)(C)C)=O)Oc1c(C)cc(C(CC)(c(cc2)cc3c2cc(C(O)=O)cc3)CC)cc1>>CCC(C(C(C)(C)C)=O)Oc4c(C)cc(C(CC)(c(cc5)cc6c5cc(C(OC)=O)cc6)CC)cc4
+CCC(C(C(C)(C)C)=O)Oc1c(C)cc(C(CC)(c(cc2)cc3c2cc(C(OC)=O)cc3)CC)cc1>>CCC(c4cc(C)c(O)cc4)(c(cc5)cc6c5cc(C(OC)=O)cc6)CC.CCC(C(C(C)(C)C)=O)Br
+CCC(c1cc(C)c(O)cc1)(c(cc2)cc3c2cc(C(OC)=O)cc3)CC>>Cc4c(O)cccc4.C/C=C(c(cc5)cc6c5cc(C(OC)=O)cc6)/CC
+C/C=C(c(cc1)cc2c1cc(C(OC)=O)cc2)/CC>>CO.C/C=C(C3=CC4=C(C=C(C=C4)OS(=O)(C(F)(F)F)=O)C=C3)\CC
+C/C=C(C1=CC2=C(C=C(C=C2)OS(=O)(C(F)(F)F)=O)C=C1)\CC>>FC(F)(S(OS(C(F)(F)F)(=O)=O)(=O)=O)F.CCC(CC)(C3=CC4=C(C=C(C=C4)O)C=C3)O
+CCC(CC)(C1=CC2=C(C=C(C=C2)O)C=C1)O>>CCC(CC)(C3=CC4=C(C=C(C=C4)OCC5=CC=CC=C5)C=C3)O
+CCC(CC)(C1=CC2=C(C=C(C=C2)OCC3=CC=CC=C3)C=C1)O>>CC[Mg]Br.COC(C4=CC5=C(C=C(C=C5)OCC6=CC=CC=C6)C=C4)=O
+COC(C1=CC2=C(C=C(C=C2)OCC3=CC=CC=C3)C=C1)=O>>BrCC4=CC=CC=C4.COC(C5=CC6=C(C=C(C=C6)O)C=C5)=O
+COC(C1=CC2=C(C=C(C=C2)O)C=C1)=O>>CO.O=C(C3=CC4=C(C=C(C=C4)O)C=C3)O
+CCC(C(C(C)(C)C)=O)Br>>CCCC(C(C)(C)C)=O

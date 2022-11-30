@@ -1,0 +1,10 @@
+O=C(c(c1)c(Nc2c(F)cc(I)cc2)c(F)c3c1ocn3)NOCCO>>C=COCCONC(c(c4)c(Nc5c(F)cc(I)cc5)c(F)c6c4ocn6)=O
+C=COCCONC(c(c1)c(Nc2c(F)cc(I)cc2)c(F)c3c1ocn3)=O>>C=COCCON.O=C(c(c4)c(Nc5c(F)cc(I)cc5)c(F)c6c4ocn6)O
+O=C(c(c1)c(Nc2c(F)cc(I)cc2)c(F)c3c1ocn3)O>>O=C(c(c4)c(Nc5c(F)cccc5)c(F)c6c4ocn6)O
+O=C(c(c1)c(Nc2c(F)cccc2)c(F)c3c1ocn3)O>>Nc4c(F)c(Nc5c(F)cccc5)c(C(O)=O)cc4O
+Nc1c(F)c(Nc2c(F)cccc2)c(C(O)=O)cc1O>>[N-]=[N+]=Nc3c(F)c(Nc4c(F)cccc4)c(C(OCc5ccccc5)=O)cc3OCc6ccccc6
+[N-]=[N+]=Nc1c(F)c(Nc2c(F)cccc2)c(C(OCc3ccccc3)=O)cc1OCc4ccccc4>>O=C(c5c(Nc6c(F)cccc6)c(F)c(F)c(OCc7ccccc7)c5)OCc8ccccc8
+O=C(c1c(Nc2c(F)cccc2)c(F)c(F)c(OCc3ccccc3)c1)OCc4ccccc4>>O=C(c5c(Nc6c(F)cccc6)c(F)c(F)c(OCc7ccccc7)c5)O.BrCc8ccccc8
+O=C(c1c(Nc2c(F)cccc2)c(F)c(F)c(OCc3ccccc3)c1)O>>O=C(c4c(F)c(F)c(F)c(OCc5ccccc5)c4)O.Nc6c(F)cccc6
+O=C(c1c(F)c(F)c(F)c(OCc2ccccc2)c1)O>>Fc3c(F)c(F)c(OCc4ccccc4)cc3
+Fc1c(F)c(F)c(OCc2ccccc2)cc1>>Fc3c(F)c(F)c(O)cc3.BrCc4ccccc4

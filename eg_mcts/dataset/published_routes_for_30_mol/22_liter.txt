@@ -1,0 +1,7 @@
+O=S(NC(C(CC(F)(F)F)CC(F)(F)F)CO)(c1sc(Cl)cc1)=O>>COC(C(C(CC(F)(F)F)CC(F)(F)F)NS(=O)(c2sc(Cl)cc2)=O)=O
+COC(C(C(CC(F)(F)F)CC(F)(F)F)NS(=O)(c1sc(Cl)cc1)=O)=O>>O=C(C(C(CC(F)(F)F)CC(F)(F)F)NS(=O)(c2sc(Cl)cc2)=O)O.C[Si](C)(C=[N+]=[N-])C
+O=C(C(C(CC(F)(F)F)CC(F)(F)F)NS(=O)(c1sc(Cl)cc1)=O)O>>O=S(Cl)(c2sc(Cl)cc2)=O.NC(C(CC(F)(F)F)CC(F)(F)F)C(O)=O
+NC(C(CC(F)(F)F)CC(F)(F)F)C(O)=O>>O=C1NC(C(N1)C(CC(F)(F)F)CC(F)(F)F)=O
+O=C1NC(C(N1)C(CC(F)(F)F)CC(F)(F)F)=O>>O=CC(CC(F)(F)F)CC(F)(F)F.N#C[Na]
+O=CC(CC(F)(F)F)CC(F)(F)F>>OCC(CC(F)(F)F)CC(F)(F)F
+OCC(CC(F)(F)F)CC(F)(F)F>>O=C(C(CC(F)(F)F)CC(F)(F)F)O

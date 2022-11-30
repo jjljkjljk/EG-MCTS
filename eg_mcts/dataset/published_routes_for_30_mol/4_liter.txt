@@ -1,0 +1,11 @@
+CCCNC(CCCNC(c(nc1C#N)c(O)c2c1c(=O)n(Cc3ccccc3)cc2)=O)=O>>N#Cc(nc(C(NCCCC(O)=O)=O)c4O)c5c4ccn(Cc6ccccc6)c5=O.CCCN
+N#Cc(nc(C(NCCCC(O)=O)=O)c1O)c2c1ccn(Cc3ccccc3)c2=O>>COC(c(nc4C#N)c(O)c5c4c(=O)n(Cc6ccccc6)cc5)=O.NCCCC(O)=O
+COC(c(nc1C#N)c(O)c2c1c(=O)n(Cc3ccccc3)cc2)=O>>COC(c(nc4I)c(O)c5c4c(=O)n(Cc6ccccc6)cc5)=O.N#C[Cu]
+COC(c(nc1I)c(O)c2c1c(=O)n(Cc3ccccc3)cc2)=O>>COC(c(nc4)c(O)c5c4c(=O)n(Cc6ccccc6)cc5)=O
+COC(c(nc1)c(O)c2c1c(=O)n(Cc3ccccc3)cc2)=O>>CCOC(c(ccn4Cc5ccccc5)c(CN(S(=O)(c6ccc(C)cc6)=O)CC(OC)=O)c4=O)=O
+CCOC(c(ccn1Cc2ccccc2)c(CN(S(=O)(c3ccc(C)cc3)=O)CC(OC)=O)c1=O)=O>>COC(CNS(=O)(c4ccc(C)cc4)=O)=O.CCOC(c(ccn5Cc6ccccc6)c(CBr)c5=O)=O
+CCOC(c(ccn1Cc2ccccc2)c(CBr)c1=O)=O>>CCOC(c(ccn3Cc4ccccc4)c(C(O)=O)c3=O)=O
+CCOC(c(ccn1Cc2ccccc2)c(C(O)=O)c1=O)=O>>CCOC(c(ccn3Cc4ccccc4)c(C(OC)=O)c3=O)=O
+CCOC(c(ccn1Cc2ccccc2)c(C(OC)=O)c1=O)=O>>CCOC(C(/C=C/N(C)C)=C(C(OC)=O)/C(OC)=O)=O.NCc3ccccc3
+CCOC(C(/C=C/N(C)C)=C(C(OC)=O)/C(OC)=O)=O>>COC(N(C)C)OC.CCOC(/C(C)=C(C(OC)=O)/C(OC)=O)=O
+CCOC(/C(C)=C(C(OC)=O)/C(OC)=O)=O>>COC(CC(OC)=O)=O.CCOC(C(C)=O)=O

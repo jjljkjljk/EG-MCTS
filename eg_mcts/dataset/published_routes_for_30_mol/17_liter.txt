@@ -1,0 +1,6 @@
+Cc1c(C2C(CC(C2=O)CC3CCOCC3)=O)c(C)cc(C4CC4)c1>>Cc5c(C6C(CC(C6=O)CC7CCOCC7)=O)c(C)cc(Br)c5.OB(C8CC8)O
+Cc1c(C2C(CC(C2=O)CC3CCOCC3)=O)c(C)cc(Br)c1>>Cc4c(C5C(C/C(C5=O)=C/C6CCOCC6)=O)c(C)cc(Br)c4
+Cc1c(C2C(C/C(C2=O)=C/C3CCOCC3)=O)c(C)cc(Br)c1>>COC4=C(C(C(C4)C(C5CCOCC5)O)=O)c6c(C)cc(Br)cc6C
+COC1=C(C(C(C1)C(C2CCOCC2)O)=O)c3c(C)cc(Br)cc3C>>O=CC4CCOCC4.COC5=C(C(CC5)=O)c6c(C)cc(Br)cc6C
+COC1=C(C(CC1)=O)c2c(C)cc(Br)cc2C>>Cc3c(C4=C(O)CCC4=O)c(C)cc(Br)c3
+Cc1c(C2=C(O)CCC2=O)c(C)cc(Br)c1>>Cc3c(C4C(C=CC4=O)=O)c(C)cc(Br)c3

@@ -1,0 +1,8 @@
+CN1C(N(C2=C(C1c3c(CO)cc(C#N)cc3)C(CCC2)=O)c4cc(C(F)(F)F)ccc4)=O>>CN5C(N(C6=C(C5c7c(C(O)=O)cc(C#N)cc7)C(CCC6)=O)c8cc(C(F)(F)F)ccc8)=O
+CN1C(N(C2=C(C1c3c(C(O)=O)cc(C#N)cc3)C(CCC2)=O)c4cc(C(F)(F)F)ccc4)=O>>CN5C(N(C6=C(C5c7c(C(OC)=O)cc(C#N)cc7)C(CCC6)=O)c8cc(C(F)(F)F)ccc8)=O
+CN1C(N(C2=C(C1c3c(C(OC)=O)cc(C#N)cc3)C(CCC2)=O)c4cc(C(F)(F)F)ccc4)=O>>CN5C(N(C6=C(C5c7c(Br)cc(C#N)cc7)C(CCC6)=O)c8cc(C(F)(F)F)ccc8)=O
+CN1C(N(C2=C(C1c3c(Br)cc(C#N)cc3)C(CCC2)=O)c4cc(C(F)(F)F)ccc4)=O>>O=C5NC(c6c(Br)cc(C#N)cc6)C(C(CCC7)=O)=C7N5c8cc(C(F)(F)F)ccc8
+O=C1NC(c2c(Br)cc(C#N)cc2)C(C(CCC3)=O)=C3N1c4cc(C(F)(F)F)ccc4>>O=C(N5C=CN=C5)N6C=CN=C6.N#CC7=CC=C(C(Br)=C7)C(C8=C(CCCC8=O)NC9=CC=CC(C(F)(F)F)=C9)N
+N#CC1=CC=C(C(Br)=C1)C(C2=C(CCCC2=O)NC3=CC=CC(C(F)(F)F)=C3)N>>CC(C)(OC(NC(C4=C(CCCC4=O)NC5=CC=CC(C(F)(F)F)=C5)C6=CC=C(C=C6Br)C#N)=O)C
+CC(C)(OC(NC(C1=C(CCCC1=O)NC2=CC=CC(C(F)(F)F)=C2)C3=CC=C(C=C3Br)C#N)=O)C>>CC(C)(OC(NC(S(=O)(C4=CC=CC=C4)=O)C5=C(C=C(C=C5)C#N)Br)=O)C.O=C6C=C(CCC6)NC7=CC(C(F)(F)F)=CC=C7
+O=C1C=C(CCC1)NC2=CC(C(F)(F)F)=CC=C2>>O=C3CCCC(C3)=O.NC4=CC=CC(C(F)(F)F)=C4

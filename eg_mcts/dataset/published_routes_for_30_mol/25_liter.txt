@@ -1,0 +1,15 @@
+O=S(Nc(c1)c(Nc2c(F)cc(I)cc2)c(F)c3c1scn3)(C4(CC4)CC(CO)O)=O>>C=CCC5(CC5)S(=O)(Nc(c6)c(Nc7c(F)cc(I)cc7)c(F)c8c6scn8)=O
+C=CCC1(CC1)S(=O)(Nc(c2)c(Nc3c(F)cc(I)cc3)c(F)c4c2scn4)=O>>C=CCC5(CC5)S(=O)(n(c(=O)n6c7c(F)cc(I)cc7)c8c6c(F)c(ncs9)c9c8)=O
+C=CCC1(CC1)S(=O)(n(c(=O)n2c3c(F)cc(I)cc3)c4c2c(F)c(ncs5)c5c4)=O>>O=c([nH]6)n(c7c(F)cc(I)cc7)c8c6cc(scn9)c9c8F.C=CCC%10(CC%10)S(=O)(Cl)=O
+O=c([nH]1)n(c2c(F)cc(I)cc2)c3c1cc(scn4)c4c3F>>O=C(c(c5)c(Nc6c(F)cc(I)cc6)c(F)c7c5scn7)O
+O=C(c(c1)c(Nc2c(F)cc(I)cc2)c(F)c3c1scn3)O>>COC(c(c4)c(Nc5c(F)cc(I)cc5)c(F)c6c4scn6)=O
+COC(c(c1)c(Nc2c(F)cc(I)cc2)c(F)c3c1scn3)=O>>COC(c(c4)c(Nc5c(F)cccc5)c(F)c6c4scn6)=O
+COC(c(c1)c(Nc2c(F)cccc2)c(F)c3c1scn3)=O>>COC(c4c(Nc5c(F)cccc5)c(F)c(N)c(S)c4)=O.COC(OC)OC
+COC(c1c(Nc2c(F)cccc2)c(F)c(N)c(S)c1)=O>>O=C(OC)C3=C(NC4=C(F)C=CC=C4)C(F)=C(N)C(SSC5=CC(C(OC)=O)=C(NC6=C(F)C=CC=C6)C(F)=C5N)=C3
+O=C(OC)C1=C(NC2=C(F)C=CC=C2)C(F)=C(N)C(SSC3=CC(C(OC)=O)=C(NC4=C(F)C=CC=C4)C(F)=C3N)=C1>>COC(C5=C(C(F)=C(C(SCC6=CC=C(C=C6)OC)=C5)N)NC7=C(C=CC=C7)F)=O
+COC(C1=C(C(F)=C(C(SCC2=CC=C(C=C2)OC)=C1)N)NC3=C(C=CC=C3)F)=O>>COC(C4=C(C(F)=C(C(SCC5=CC=C(C=C5)OC)=C4)[N2])NC6=C(C=CC=C6)F)=O
+COC(C1=C(C(F)=C(C(SCC2=CC=C(C=C2)OC)=C1)[N2])NC3=C(C=CC=C3)F)=O>>COC(C4=C(C(F)=C(C(SCC5=CC=C(C=C5)OC)=C4)F)NC6=C(C=CC=C6)F)=O
+COC(C1=C(C(F)=C(C(SCC2=CC=C(C=C2)OC)=C1)F)NC3=C(C=CC=C3)F)=O>>COC4=CC=C(C=C4)CS.COC(C5=C(C(F)=C(C(Br)=C5)F)NC6=C(C=CC=C6)F)=O
+COC(C1=C(C(F)=C(C(Br)=C1)F)NC2=C(C=CC=C2)F)=O>>CO.OC(C3=C(NC4=C(F)C=CC=C4)C(F)=C(F)C(Br)=C3)=O
+OC(C1=C(NC2=C(F)C=CC=C2)C(F)=C(F)C(Br)=C1)=O>>Nc3c(F)cccc3.OC(c4c(Br)c(F)c(F)c(Br)c4)=O
+OC(c1c(Br)c(F)c(F)c(Br)c1)=O>>O=C=O.FC2=CC=C(Br)C(F)=C2F

@@ -1,0 +1,8 @@
+CCC(c(ccc1Cl)c2c1nc3n2CCCN3c4c(Cl)cc(Cl)cc4)OC(C)=O>>CC(OC(C)=O)=O.CCC(c(ccc5Cl)c6c5nc7n6CCCN7c8c(Cl)cc(Cl)cc8)O
+CCC(c(ccc1Cl)c2c1nc3n2CCCN3c4c(Cl)cc(Cl)cc4)O>>O=Cc(ccc5Cl)c6c5nc7n6CCCN7c8c(Cl)cc(Cl)cc8.CC[Mg]Br
+O=Cc(ccc1Cl)c2c1nc3n2CCCN3c4c(Cl)cc(Cl)cc4>>OCc(ccc5Cl)c6c5nc7n6CCCN7c8c(Cl)cc(Cl)cc8
+OCc(ccc1Cl)c2c1nc3n2CCCN3c4c(Cl)cc(Cl)cc4>>COC(c(ccc5Cl)c6c5nc7n6CCCN7c8c(Cl)cc(Cl)cc8)=O
+COC(c(ccc1Cl)c2c1nc3n2CCCN3c4c(Cl)cc(Cl)cc4)=O>>COC(c(ccc5Cl)c6c5nc(Nc7c(Cl)cc(Cl)cc7)n6CCCO)=O
+COC(c(ccc1Cl)c2c1nc(Nc3c(Cl)cc(Cl)cc3)n2CCCO)=O>>S=C=Nc4c(Cl)cc(Cl)cc4.COC(c5c(NCCCO)c(N)c(Cl)cc5)=O
+COC(c1c(NCCCO)c(N)c(Cl)cc1)=O>>COC(c2c(NCCCO)c(N)ccc2)=O
+COC(c1c(NCCCO)c(N)ccc1)=O>>COC(c2c(NCCCO)c([N+]([O-])=O)ccc2)=O

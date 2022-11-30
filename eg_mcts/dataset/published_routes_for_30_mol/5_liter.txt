@@ -1,0 +1,14 @@
+O=C(Cc(cc1C2CCN(CC2)S(=O)(c3ncccc3)=O)cc4c1cc(F)cc4)O>>COC(Cc(cc5C6CCN(CC6)S(=O)(c7ncccc7)=O)cc8c5cc(F)cc8)=O
+COC(Cc(cc1C2CCN(CC2)S(=O)(c3ncccc3)=O)cc4c1cc(F)cc4)=O>>COC(Cc(cc5C6CCNCC6)cc7c5cc(F)cc7)=O.O=S(Cl)(c8ncccc8)=O
+COC(Cc(cc1C2CCNCC2)cc3c1cc(F)cc3)=O>>COC(Cc(cc4C5CCN(CC5)C(OC(C)(C)C)=O)cc6c4cc(F)cc6)=O.OC(C(F)(F)F)=O
+COC(Cc(cc1C2CCN(CC2)C(OC(C)(C)C)=O)cc3c1cc(F)cc3)=O>>COC(Cc(cc4C5=CCN(CC5)C(OC(C)(C)C)=O)cc6c4cc(F)cc6)=O
+COC(Cc(cc1C2=CCN(CC2)C(OC(C)(C)C)=O)cc3c1cc(F)cc3)=O>>CC(C)(OC(N4CC=C(CC4)B5OC(C)(C(C)(O5)C)C)=O)C.COC(Cc(cc6OS(=O)(C(F)(F)F)=O)cc7c6cc(F)cc7)=O
+COC(Cc(cc1OS(=O)(C(F)(F)F)=O)cc2c1cc(F)cc2)=O>>O=S(OS(=O)(C(F)(F)F)=O)(C(F)(F)F)=O.COC(Cc(cc3O)cc4c3cc(F)cc4)=O
+COC(Cc(cc1O)cc2c1cc(F)cc2)=O>>COC(Cc(cc3OCc4ccccc4)cc5c3cc(F)cc5)=O
+COC(Cc(cc1OCc2ccccc2)cc3c1cc(F)cc3)=O>>Fc(cc4)cc5c4cc(CCl)cc5OCc6ccccc6
+Fc(cc1)cc2c1cc(CCl)cc2OCc3ccccc3>>Fc(cc4)cc5c4cc(C)cc5OCc6ccccc6
+Fc(cc1)cc2c1cc(C)cc2OCc3ccccc3>>Fc(cc4)cc5c4cc(C(OC)=O)cc5OCc6ccccc6
+Fc(cc1)cc2c1cc(C(OC)=O)cc2OCc3ccccc3>>COC(c(cc4O)cc5c4cc(F)cc5)=O.BrCc6ccccc6
+COC(c(cc1O)cc2c1cc(F)cc2)=O>>OC(c(cc3O)cc4c3cc(F)cc4)=O
+OC(c(cc1O)cc2c1cc(F)cc2)=O>>FC3=CC=C(/C=C(CC(O)=O)/C(O)=O)C=C3
+FC1=CC=C(/C=C(CC(O)=O)/C(O)=O)C=C1>>FC2=CC=C(C=O)C=C2.COC(CCC(OC)=O)=O

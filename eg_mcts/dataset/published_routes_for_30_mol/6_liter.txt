@@ -1,0 +1,6 @@
+CCC(c(ccc1Cl)c2c1nc3n2CCCN3c4c(Cl)cc(Cl)cc4)OC(COC)=O>>CCC(c(ccc5Cl)c6c5nc7n6CCCN7c8c(Cl)cc(Cl)cc8)O.COCC(O)=O
+CCC(c(ccc1Cl)c2c1nc3n2CCCN3c4c(Cl)cc(Cl)cc4)O>>CC[Mg]Br.O=Cc(ccc5Cl)c6c5nc7n6CCCN7c8c(Cl)cc(Cl)cc8
+O=Cc(ccc1Cl)c2c1nc3n2CCCN3c4c(Cl)cc(Cl)cc4>>OCc(ccc5Cl)c6c5nc7n6CCCN7c8c(Cl)cc(Cl)cc8
+OCc(ccc1Cl)c2c1nc3n2CCCN3c4c(Cl)cc(Cl)cc4>>COC(c(ccc5Cl)c6c5nc7n6CCCN7c8c(Cl)cc(Cl)cc8)=O
+COC(c(ccc1Cl)c2c1nc3n2CCCN3c4c(Cl)cc(Cl)cc4)=O>>COC(c(ccc5Cl)c6c5nc(Nc7c(Cl)cc(Cl)cc7)n6CCCO)=O
+COC(c(ccc1Cl)c2c1nc(Nc3c(Cl)cc(Cl)cc3)n2CCCO)=O>>S=C=Nc4c(Cl)cc(Cl)cc4.COC(c5c(NCCCO)c(N)c(Cl)cc5)=O
